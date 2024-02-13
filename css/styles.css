@@ -95,6 +95,9 @@ ol {
   text-align: center;
   color: #2e2f42;
 }
+.team-list {
+  background-color: #ffffff;
+}
 .team-member {
   font-weight: 500;
   font-size: 20px;
@@ -102,14 +105,12 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background: #fff;
 }
 .team-profession {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-  background: #fff;
 }
 .portfolio {
   font-weight: 700;
